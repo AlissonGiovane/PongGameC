@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(24,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(24,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(24,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(48,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(49,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(74,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(141,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(144,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pichau\source\repos\Pong1\Pong1\main.cpp(148,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong1.vcxproj -> C:\Users\Pichau\source\repos\Pong1\x64\Debug\Pong1.exe
